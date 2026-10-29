@@ -1,2 +1,2 @@
 # kubernetes-public
-VM쿠버네티스 수업
+VM 쿠버네틱스 수업 
